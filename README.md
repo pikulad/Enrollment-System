@@ -8,3 +8,7 @@ This is simple web application based on Php with MySql database.
 - import database [ portl_college.sql ] in phpmyadmin
 - Open any browser and entered localhost and browse file location. (for example: localhost/collegeportal)
 - *Enjoy System* 
+
+## Contributors
+
+* **Priyank Lad** - *Initial work* - [github.com/pikulad](https://github.com/pikulad)
